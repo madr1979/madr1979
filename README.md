@@ -1,6 +1,6 @@
 # Repositorio GITHUB Miguel Angel Diaz Rengel
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Recursos/github-logo.jpeg)
 
 ## Descripción
 
