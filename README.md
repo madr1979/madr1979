@@ -12,4 +12,4 @@ Reto 2 GitHub para la asignatura de Entornos de desarrollo
 - Creacion de nueva rama del repositorio
 - Union de la rama con la rama principal
 
-![Imagen del proyecto](Recursos/github-logo.jpeg)
+![Imagen del proyecto](Recursos/logo.jpg)
