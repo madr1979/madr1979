@@ -3,9 +3,8 @@
 ![Imagen de Portada](Recursos/github-logo.jpeg)
 
 ## Descripción
-
 Reto 2 GitHub para la asignatura de Entornos de desarrollo
-
+![Reto 2 Entornos de Desarrollo]([url](https://github.com/madr1979/retogit-))
 ## Características
 
 - Creacion de nuevo repositorio
